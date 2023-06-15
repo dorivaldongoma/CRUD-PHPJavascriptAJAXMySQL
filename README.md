@@ -1,5 +1,5 @@
 # CRUD com PHP, MySQL, JavaScript e AJAX
-![Capa](img/capa.JPG)
+![Capa](img/capa.jpg)
 ## Sobre o projecto
 [![Licença: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dorivaldongoma/CRUD-PHPJavascriptAJAXMySQL/blob/main/LICENSE)
 
